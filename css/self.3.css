@@ -1,0 +1,8 @@
+.container h1{color: white;}
+.container p{color: wheat}
+.text-muted{text-align: center;}
+.col-md-4 h2{color: gray}
+.media p{color: gray}
+.footer{line-height: 30px;background: #ccc;text-align: center;width: 100%;}
+.footer ul{list-style-type: none;}
+body{background:white}
